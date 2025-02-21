@@ -1,0 +1,15 @@
+{
+    "allergies":[
+   
+    "Dairy",
+    "Snacks",
+    "Meat",
+    "Chocolates & Desserts",
+    "Beverages",
+    "Munchies",
+    "Supplements"
+    ],
+    "dietaryPreferences":[
+        "Vegetarian","Non-Vegetarian","Vegan"
+    ]
+}

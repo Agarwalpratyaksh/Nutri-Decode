@@ -1,0 +1,224 @@
+{
+  "products": [
+    {
+      "name": "Amul Taaza Toned Milk",
+      "category": "Dairy",
+      "macros": {
+        "calories": 62,
+        "protein": 3.4,
+        "fat": 3.0,
+        "carbohydrates": 4.8
+      },
+      "ingredients": ["Toned Milk", "Vitamin D", "Vitamin A"]
+    },{
+      "name": "Bingo Mad Angles (Tomato Madness)",
+      "category": "Snacks",
+      "macros": {
+        "calories": 520,
+        "protein": 6,
+        "fat": 30,
+        "carbohydrates": 58
+      },
+      "ingredients": ["Corn", "Edible Oil", "Spices", "Tomato Powder"]
+    },
+    {
+      "name": "Mother Dairy Full Cream Milk",
+      "category": "Dairy",
+      "macros": {
+        "calories": 70,
+        "protein": 3.2,
+        "fat": 4.5,
+        "carbohydrates": 4.9
+      },
+      "ingredients": ["Full Cream Milk"]
+    },
+    {
+      "name": "Amul Butter",
+      "category": "Dairy",
+      "macros": {
+        "calories": 717,
+        "protein": 0.9,
+        "fat": 81,
+        "carbohydrates": 0.1
+      },
+      "ingredients": ["Milk Fat", "Salt"]
+    },
+    {
+      "name": "Britannia Cheese Slices",
+      "category": "Dairy",
+      "macros": {
+        "calories": 320,
+        "protein": 20,
+        "fat": 25,
+        "carbohydrates": 2
+      },
+      "ingredients": ["Milk Solids", "Salt", "Emulsifiers"]
+    },
+    {
+      "name": "Nestlé a+ Grekyo Greek Yogurt",
+      "category": "Dairy",
+      "macros": {
+        "calories": 100,
+        "protein": 8,
+        "fat": 3,
+        "carbohydrates": 10
+      },
+      "ingredients": ["Milk", "Active Live Cultures", "Sugar"]
+    },
+    {
+      "name": "Gowardhan Paneer",
+      "category": "Dairy",
+      "macros": {
+        "calories": 265,
+        "protein": 18,
+        "fat": 20,
+        "carbohydrates": 1.2
+      },
+      "ingredients": ["Milk", "Citric Acid"]
+    },
+    {
+      "name": "Nestlé Everyday Dairy Whitener",
+      "category": "Dairy",
+      "macros": {
+        "calories": 510,
+        "protein": 22,
+        "fat": 26,
+        "carbohydrates": 48
+      },
+      "ingredients": ["Milk Solids", "Sugar", "Emulsifiers"]
+    },
+    {
+      "name": "Epigamia Greek Yogurt",
+      "category": "Dairy",
+      "macros": {
+        "calories": 90,
+        "protein": 9,
+        "fat": 3,
+        "carbohydrates": 8
+      },
+      "ingredients": ["Milk", "Live Cultures", "Fruit Puree"]
+    },
+    {
+      "name": "Amul Masti Buttermilk",
+      "category": "Dairy",
+      "macros": {
+        "calories": 40,
+        "protein": 2.5,
+        "fat": 1.5,
+        "carbohydrates": 4.8
+      },
+      "ingredients": ["Water", "Curd", "Salt", "Spices"]
+    },
+    {
+      "name": "Nandini Ghee",
+      "category": "Dairy",
+      "macros": {
+        "calories": 899,
+        "protein": 0,
+        "fat": 99.8,
+        "carbohydrates": 0
+      },
+      "ingredients": ["Milk Fat"]
+    },
+    {
+      "name": "Haldiram’s Aloo Bhujia",
+      "category": "Snacks",
+      "macros": {
+        "calories": 547,
+        "protein": 10,
+        "fat": 36,
+        "carbohydrates": 48
+      },
+      "ingredients": ["Potatoes", "Gram Flour", "Spices", "Edible Oil", "Salt"]
+    },
+    {
+      "name": "Bikaji Bhujia Sev",
+      "category": "Snacks",
+      "macros": {
+        "calories": 550,
+        "protein": 9,
+        "fat": 35,
+        "carbohydrates": 49
+      },
+      "ingredients": ["Gram Flour", "Spices", "Salt", "Edible Oil"]
+    },
+    {
+      "name": "Lay’s Classic Salted Chips",
+      "category": "Snacks",
+      "macros": {
+        "calories": 536,
+        "protein": 6,
+        "fat": 34,
+        "carbohydrates": 53
+      },
+      "ingredients": ["Potatoes", "Edible Oil", "Salt"]
+    },
+    {
+      "name": "Kurkure Masala Munch",
+      "category": "Snacks",
+      "macros": {
+        "calories": 530,
+        "protein": 7,
+        "fat": 32,
+        "carbohydrates": 55
+      },
+      "ingredients": ["Corn Meal", "Rice Meal", "Edible Oil", "Spices"]
+    },
+    
+    {
+      "name": "Balaji Wafers (Tomato)",
+      "category": "Snacks",
+      "macros": {
+        "calories": 540,
+        "protein": 5,
+        "fat": 35,
+        "carbohydrates": 50
+      },
+      "ingredients": ["Potatoes", "Tomato Powder", "Edible Oil", "Salt"]
+    },
+    {
+      "name": "Too Yumm Multigrain Chips",
+      "category": "Snacks",
+      "macros": {
+        "calories": 480,
+        "protein": 9,
+        "fat": 20,
+        "carbohydrates": 60
+      },
+      "ingredients": ["Multigrain Flour", "Spices", "Salt", "Edible Oil"]
+    },
+    {
+      "name": "Pringles Original",
+      "category": "Snacks",
+      "macros": {
+        "calories": 536,
+        "protein": 4,
+        "fat": 34,
+        "carbohydrates": 52
+      },
+      "ingredients": ["Dehydrated Potatoes", "Edible Oil", "Salt", "Emulsifiers"]
+    },
+    {
+      "name": "Cornitos Nachos",
+      "category": "Snacks",
+      "macros": {
+        "calories": 520,
+        "protein": 7,
+        "fat": 25,
+        "carbohydrates": 60
+      },
+      "ingredients": ["Corn Flour", "Edible Oil", "Spices"]
+    },
+    {
+      "name": "Haldiram’s Moong Dal",
+      "category": "Snacks",
+      "macros": {
+        "calories": 550,
+        "protein": 22,
+        "fat": 30,
+        "carbohydrates": 45
+      },
+      "ingredients": ["Moong Dal", "Edible Oil", "Salt"]
+    }
+  ]
+}

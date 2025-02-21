@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from "react";
-import foodData from "./data/products.json"; // Import the JSON file
+import foodData from "./data/food.json"; // Import the JSON file
 
 function Compare() {
   const [products, setProducts] = useState([]);

@@ -1,0 +1,1970 @@
+{
+    "products":[
+        {
+            "name": "Coca-Cola",
+            "category": "Beverages",
+            "macros": {
+                "calories": 42,
+                "protein": 0,
+                "fat": 0,
+                "carbohydrates": 11
+            },
+            "ingredients": [
+                "Carbonated Water",
+                "Sugar",
+                "Caffeine",
+                "Phosphoric Acid",
+                "Natural Flavors"
+            ],
+            "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT3Sm-L9BXCkkH--K9wmQHl8uIAzP41ofXdzCWTOavDwDR4WFtHgE5mMpeS2uD4F_QZ6ALiZjPecUvNEvnSj8WPPHjlRQdEAsusocSibRCNNL8WCM2-_i21AA&usqp=CAE",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "Kissan Tomato Ketchup",
+            "category": "Instant Foods",
+            "macros": {
+                "calories": 100,
+                "protein": 1,
+                "fat": 0,
+                "carbohydrates": 25
+            },
+            "ingredients": [
+                "Tomato Paste",
+                "Sugar",
+                "Salt",
+                "Acidity Regulator"
+            ],
+            "image_url": "https://m.media-amazon.com/images/I/81Gb0lYSH1L.jpg",
+            "diet_category": "Vegan"
+        },
+        
+        {
+            "name": "MTR Upma Mix",
+            "category": "Instant Foods",
+            "macros": {
+                "calories": 380,
+                "protein": 12,
+                "fat": 4,
+                "carbohydrates": 78
+            },
+            "ingredients": [
+                "Semolina",
+                "Salt",
+                "Spices"
+            ],
+            "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRsqtifnCSlZQRCwUh8kE4yIUUbtz7WF7OZzOokGEU3QbeotVII3LpNFuqxgbAQincsyE9Ilh6Qh7_Wkn9tWkQ_1_RpCiILDNcFdpY8r5KbDCzsiOp4w_eqeYif&usqp=CAE",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "Gits Instant Gulab Jamun Mix",
+            "category": "Instant Foods",
+            "macros": {
+                "calories": 430,
+                "protein": 10,
+                "fat": 14,
+                "carbohydrates": 70
+            },
+            "ingredients": [
+                "Milk Solids",
+                "Flour",
+                "Sugar",
+                "Baking Soda"
+            ],
+            "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT61m4cDbF8QWRg97khPrAjV393Hst6agPohM94V7qRJrSSRdFbQm9GDmYYC_EwqNsXKDTBC9A2JZJduqlK0NNyHhYfHlFXVIifi-GKqj8-F2FuN2ZbzqPZkg",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "ID Fresh Malabar Paratha",
+            "category": "Instant Foods",
+            "macros": {
+                "calories": 290,
+                "protein": 6,
+                "fat": 10,
+                "carbohydrates": 44
+            },
+            "ingredients": [
+                "Refined Wheat Flour",
+                "Water",
+                "Edible Oil",
+                "Salt"
+            ],
+            "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRK9LbPgOhSJ06T_WuG6VWAIKu1F3CWa2wLer5gLTv-FODQ4CEjcG0EX5gKH4ZYnyglfLa4WJm9T8evKTPu3V_0cT13WSzaOrMrz2svU40fsvZMfI-tJKxowA&usqp=CAE",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "Weikfield Pasta",
+            "category": "Instant Foods",
+            "macros": {
+                "calories": 370,
+                "protein": 11,
+                "fat": 2,
+                "carbohydrates": 75
+            },
+            "ingredients": [
+                "Durum Wheat Semolina"
+            ],
+            "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRFGCwf42WS0dsN8ZL42dnZzIC4nihAWf2q1VFSByZ5qB3EGa6m9uZq9PkHHZpRhrBOMEtSdiJfOJimyVOVI3eV6W41IRuZkVNVMuTSz725poTE_AsXYcSu",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "Maggi 2-Minute Noodles",
+            "category": "Instant Foods",
+            "macros": {
+                "calories": 420,
+                "protein": 9,
+                "fat": 17,
+                "carbohydrates": 56
+            },
+            "ingredients": [
+                "Wheat Flour",
+                "Palm Oil",
+                "Salt",
+                "Spices"
+            ],
+            "image_url": "https://rukminim2.flixcart.com/image/1200/1200/xif0q/noodle/r/a/z/-original-imagxp7ethyafr6w.jpeg",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "Sunfeast Yippee Noodles",
+            "category": "Instant Foods",
+            "macros": {
+                "calories": 430,
+                "protein": 10,
+                "fat": 18,
+                "carbohydrates": 55
+            },
+            "ingredients": [
+                "Refined Wheat Flour",
+                "Edible Vegetable Oil",
+                "Salt",
+                "Spices"
+            ],
+            "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTAKytMFVvUWpuGUYNvpcZn4oB7kNrSh_63CiwcZD4Akiyu-CSl75rsZsOgeXIUic1VFXrHlxxwoGX9cAdfalr8bK4CvRWZeqibT7fXw0emfnTMJBYDHHUE",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "Knorr Cup-a-Soup",
+            "category": "Instant Foods",
+            "macros": {
+                "calories": 90,
+                "protein": 2,
+                "fat": 1,
+                "carbohydrates": 19
+            },
+            "ingredients": [
+                "Corn Starch",
+                "Salt",
+                "Vegetables",
+                "Spices"
+            ],
+            "image_url": "https://m.media-amazon.com/images/I/61kYAIcb8mL.jpg",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "Top Ramen Instant Noodles",
+            "category": "Instant Foods",
+            "macros": {
+                "calories": 410,
+                "protein": 8,
+                "fat": 16,
+                "carbohydrates": 54
+            },
+            "ingredients": [
+                "Wheat Flour",
+                "Palm Oil",
+                "Salt",
+                "Flavour Enhancer"
+            ],
+            "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTQf7tInx3QHGi0QLZGCro3PWWjoPGCR20ISDWIyQt_FcqK-cZfqXZ4JqV6z7NXafLGXHTQ_mi1bglW9jJEnFeyy2IR8ChJFzpQwni5GkI",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "McCain French Fries",
+            "category": "Frozen Foods",
+            "macros": {
+                "calories": 312,
+                "protein": 3,
+                "fat": 14,
+                "carbohydrates": 41
+            },
+            "ingredients": [
+                "Potatoes",
+                "Edible Vegetable Oil",
+                "Salt"
+            ],
+            "image_url": "https://m.media-amazon.com/images/I/81MJn9UQMfL.jpg",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "McCain Smiles",
+            "category": "Frozen Foods",
+            "macros": {
+                "calories": 320,
+                "protein": 3,
+                "fat": 15,
+                "carbohydrates": 40
+            },
+            "ingredients": [
+                "Potatoes",
+                "Salt",
+                "Edible Vegetable Oil"
+            ],
+            "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSKAW7ElpMfEXaPNDt1ajIUcRQNm8-yNkSaDpOYPADzosdKdPw0eO_JEhIYbv_Xu7a_S6wzeepgAyj8_x-WST3U2fg798qQjoTkAGR9CtFAJSbBlBpDDVtz_g",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "ITC Master Chef Chicken Nuggets",
+            "category": "Frozen Foods",
+            "macros": {
+                "calories": 280,
+                "protein": 14,
+                "fat": 18,
+                "carbohydrates": 15
+            },
+            "ingredients": [
+                "Chicken",
+                "Breadcrumbs",
+                "Salt",
+                "Spices"
+            ],
+            "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQXJiKqxPVVwItVAgmOFjyUbrbfBsHMa_ncpeKDbPCLdhT-p54BH70FmZzB_X4XnTkcKBL6X5eaRGGBDSj8SL6_2Cp2x6KTXjRJ-XhE0_Ayq07WS1VpY1WPBQ&usqp=CAE",
+            "diet_category": "Non-Vegetarian"
+        },
+        {
+            "name": "Sumeru Chicken Seekh Kabab",
+            "category": "Frozen Foods",
+            "macros": {
+                "calories": 270,
+                "protein": 16,
+                "fat": 17,
+                "carbohydrates": 10
+            },
+            "ingredients": [
+                "Chicken",
+                "Spices",
+                "Salt",
+                "Ginger Garlic Paste"
+            ],
+            "image_url": "https://m.media-amazon.com/images/I/71+f7EpRdwL.jpg",
+            "diet_category": "Non-Vegetarian"
+        },
+        {
+            "name": "Keventer Veg Spring Roll",
+            "category": "Frozen Foods",
+            "macros": {
+                "calories": 300,
+                "protein": 5,
+                "fat": 10,
+                "carbohydrates": 45
+            },
+            "ingredients": [
+                "Cabbage",
+                "Carrots",
+                "Flour",
+                "Salt",
+                "Soy Sauce"
+            ],
+            "image_url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/aggsc0qnrt2bmbjpecpq",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "Meatzza Chicken Sausages",
+            "category": "Frozen Foods",
+            "macros": {
+                "calories": 260,
+                "protein": 13,
+                "fat": 20,
+                "carbohydrates": 5
+            },
+            "ingredients": [
+                "Chicken",
+                "Salt",
+                "Spices"
+            ],
+            "image_url": "https://www.bigbasket.com/media/uploads/p/l/40055083_5-meatzza-chicken-sausage.jpg",
+            "diet_category": "Non-Vegetarian"
+        },
+        {
+            "name": "ITC Veg Patty",
+            "category": "Frozen Foods",
+            "macros": {
+                "calories": 280,
+                "protein": 7,
+                "fat": 15,
+                "carbohydrates": 35
+            },
+            "ingredients": [
+                "Potatoes",
+                "Carrots",
+                "Peas",
+                "Bread Crumbs"
+            ],
+            "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr2O5AeGlvPqkKPkFzFWda_KcwDoof6jwO1Q&s",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "McCain Cheese Shots",
+            "category": "Frozen Foods",
+            "macros": {
+                "calories": 350,
+                "protein": 6,
+                "fat": 22,
+                "carbohydrates": 40
+            },
+            "ingredients": [
+                "Cheese",
+                "Breadcrumbs",
+                "Salt",
+                "Spices"
+            ],
+            "image_url": "https://www.mccainindia.com/wp-content/uploads/2024/01/Potato-Cheese-Shotz-400-g-FRONT.png",
+            "diet_category": "Vegetarian"
+        },
+        {
+            "name": "Kohinoor Frozen Paratha",
+            "category": "Frozen Foods",
+            "macros": {
+                "calories": 280,
+                "protein": 6,
+                "fat": 14,
+                "carbohydrates": 35
+            },
+            "ingredients": [
+                "Wheat Flour",
+                "Oil",
+                "Salt"
+            ],
+            "image_url": "https://www.kohinoorfoods.in/assets/img/gobhi_paratha.jpg",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "Godrej Yummiez Chicken Popcorn",
+            "category": "Frozen Foods",
+            "macros": {
+                "calories": 290,
+                "protein": 12,
+                "fat": 16,
+                "carbohydrates": 25
+            },
+            "ingredients": [
+                "Chicken",
+                "Breadcrumbs",
+                "Salt",
+                "Spices"
+            ],
+            "image_url": "https://m.media-amazon.com/images/I/61p3fjlJl0L.jpg",
+            "diet_category": "Non-Vegetarian"
+        },
+        {
+            "name": "Harvest Gold Brown Bread",
+            "category": "Bakery",
+            "macros": {
+                "calories": 270,
+                "protein": 9,
+                "fat": 2,
+                "carbohydrates": 55
+            },
+            "ingredients": [
+                "Whole Wheat Flour",
+                "Yeast",
+                "Salt",
+                "Sugar"
+            ],
+            "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAaHjURB-wpMumwQncXLEQBJPh99m-IAnfFmD0op6QhT8VLPZDL6GFOzWgAFd-Cq9nNpt4CgJI69XQ9HTa58cdF0E7he8cgB0oFntrRM0oglq6KUxsKEpF&usqp=CAE",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "Modern Milk Bread",
+            "category": "Bakery",
+            "macros": {
+                "calories": 280,
+                "protein": 8,
+                "fat": 3,
+                "carbohydrates": 55
+            },
+            "ingredients": [
+                "Refined Wheat Flour",
+                "Milk Solids",
+                "Salt",
+                "Sugar"
+            ],
+            "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQjEPwI5yUx6lCz967EHopJCuT2b2G313cdcvLU1ZEe8pQjRmtt5QzgO2n9j246haxBJwIe9dQjVaB2tOcXHifT3zZ6bb3fnl2EzWyUJO_5m-_oFUOJh1x-SA",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "Britannia Good Day Butter Cookies",
+            "category": "Bakery",
+            "macros": {
+                "calories": 480,
+                "protein": 6,
+                "fat": 22,
+                "carbohydrates": 68
+            },
+            "ingredients": [
+                "Refined Wheat Flour",
+                "Sugar",
+                "Butter",
+                "Edible Vegetable Oil"
+            ],
+            "image_url": "https://m.media-amazon.com/images/I/61FsBt3SB4L.jpg",
+            "diet_category": "Vegetarian"
+        },
+        
+    
+    {
+        "name": "Pepsi",
+        "category": "Beverages",
+        "macros": {
+            "calories": 41,
+            "protein": 0,
+            "fat": 0,
+            "carbohydrates": 11
+        },
+        "ingredients": [
+            "Carbonated Water",
+            "Sugar",
+            "Caffeine",
+            "Citric Acid",
+            "Natural Flavors"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQwO0-4QV5kYLpgB2C97x0H1dNkgsqs-s1RKmNbudXDz3f86s24a6mN_Ltj8I7WgUlfeG9KKgjXmOQejO66buDcawFM50i_vfG-_sI5pEjoq9KhkolyYfDg&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Frooti Mango Drink",
+        "category": "Beverages",
+        "macros": {
+            "calories": 51,
+            "protein": 0,
+            "fat": 0,
+            "carbohydrates": 13
+        },
+        "ingredients": [
+            "Water",
+            "Mango Pulp",
+            "Sugar",
+            "Citric Acid"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTo3ed2-nxa8UZbJ2_1eTUEhRl4lS4mjhHflyfIrQyTmygcBZL2P_Zy5GJx6w2zjhsbJVzN4nwwYrG23bz3FLD0rj8Cx_ffk99onG9bRZ-ebK_Qk7kiuHjS&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Tropicana Orange Juice",
+        "category": "Beverages",
+        "macros": {
+            "calories": 45,
+            "protein": 1,
+            "fat": 0,
+            "carbohydrates": 10
+        },
+        "ingredients": [
+            "Orange Juice",
+            "Vitamin C"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSm96smgax7RgkSyYXpc-87q95F-wFtOYTS0CBBkYv5rnJk4rg1iMd1L20QOIBOXlJDsU1Gd56ViKDqdyMfJIOKQ7NsZ6s3pOHxq7Cd_2kjWAL-zJ-Pu8yy5w&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Real Mixed Fruit Juice",
+        "category": "Beverages",
+        "macros": {
+            "calories": 50,
+            "protein": 0.5,
+            "fat": 0,
+            "carbohydrates": 12
+        },
+        "ingredients": [
+            "Mixed Fruit Pulp",
+            "Water",
+            "Sugar",
+            "Citric Acid"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRO988bjNlABgweM9Rq8wKRipBmvERSX26WX_t-pq4V6GX4qJG4LDQcisAgNmL8QU_YwnguG8DLg7qhEdB5sSVaZM0K1fWTrRXH35r2l1NxSzaItyl-uGChrQ&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Amul Kool Kesar",
+        "category": "Beverages",
+        "macros": {
+            "calories": 78,
+            "protein": 3,
+            "fat": 3,
+            "carbohydrates": 10
+        },
+        "ingredients": [
+            "Milk",
+            "Sugar",
+            "Cardamom",
+            "Saffron"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSN7cjpt8xXmG6wYOYVBEiJRJX3blG0EN8sfi9_zooSbxePR5lbwMqYSaSLNCsueHvZKGnpE0U8YscCF0ORS1wjmvZal764EQrkRmnOvorLAbMbJNQGhhBHSF8&usqp=CAE",
+        "diet_category": "Vegetarian"
+    },
+    {
+        "name": "Bisleri Packaged Drinking Water",
+        "category": "Beverages",
+        "macros": {
+            "calories": 0,
+            "protein": 0,
+            "fat": 0,
+            "carbohydrates": 0
+        },
+        "ingredients": [
+            "Purified Water"
+        ],
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSqJRcHDS6Jc83IxW6DKeyekDiXfzBBbXQdZvlFMpDnzHh_1jwpQtLSpnlX4AC5PfYfUs4k9QCqG626-v0wD2OB0zxaMCLLAAi1Hqd78QtS839VmSaz1vzT&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Red Bull Energy Drink",
+        "category": "Beverages",
+        "macros": {
+            "calories": 45,
+            "protein": 0,
+            "fat": 0,
+            "carbohydrates": 11
+        },
+        "ingredients": [
+            "Carbonated Water",
+            "Caffeine",
+            "Sugar",
+            "B Vitamins"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTwcMzcENq3lDo3cZ1MAxVUc1d8gGqDwDn3GDtLbVSMkKG-AJ4nuxtuz_5COQogr7Sv2Cxew8V2evp6oGpw6LDPZolHxsObxdu5d7ISzsBfVgkunNpBhxV0&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Paper Boat Aam Panna",
+        "category": "Beverages",
+        "macros": {
+            "calories": 40,
+            "protein": 0,
+            "fat": 0,
+            "carbohydrates": 10
+        },
+        "ingredients": [
+            "Raw Mango Pulp",
+            "Sugar",
+            "Black Salt",
+            "Mint"
+        ],
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQbk_yx9xsaJXqvpG-UMxI5_Qmjwj58JJ_Vj8ucOCWh912lTpxuVvhCaXI1royEJlMQ46X4Jk2PygLJ7HjTatogH057XC2i8yYEWLykTovgGPmay6_RcpquKw&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Bournvita",
+        "category": "Beverages",
+        "macros": {
+            "calories": 400,
+            "protein": 8,
+            "fat": 4,
+            "carbohydrates": 85
+        },
+        "ingredients": [
+            "Malted Barley",
+            "Sugar",
+            "Cocoa Powder",
+            "Vitamins",
+            "Minerals"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRYwys3cqIoLxZ3gWbyBSKtjbeuUS4WG7znfEWSxZ6RZh_xy8xhiKIfzwKdB8wW4aiBA4V3PKCYfUTTiTWTupHh47bY1OOHtYgrxzllX9pJduk6vXIi7GSFCA&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Amul Taaza Toned Milk",
+        "category": "Dairy",
+        "macros": {
+            "calories": 62,
+            "protein": 3.4,
+            "fat": 3.0,
+            "carbohydrates": 4.8
+        },
+        "ingredients": [
+            "Toned Milk",
+            "Vitamin D",
+            "Vitamin A"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSSc_FKxkKnUd6mqkT3ykjrHQsPesLMzZZppcNIFW4hEYMe8HitwqZ5sIQLoRg-Yz9hBtXnPtCIZJLCg30prgKzdeLnq-OFosu_nOaQ_jxrYq71_Ogj_qWKcw&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Mother Dairy Full Cream Milk",
+        "category": "Dairy",
+        "macros": {
+            "calories": 70,
+            "protein": 3.2,
+            "fat": 4.5,
+            "carbohydrates": 4.9
+        },
+        "ingredients": [
+            "Full Cream Milk"
+        ],
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQXiUgU7Hxd-JNXR8znONsrvcg3CAl0VKobIVUn7vhVwsOCPUE29hYEAYsbnpwbONlwdjTq5iivrpOgbbWWp1Lbpvy1ZjMTZeXSciJL_WdiALH4ejXLaIJbGQ&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Amul Butter",
+        "category": "Dairy",
+        "macros": {
+            "calories": 717,
+            "protein": 0.9,
+            "fat": 81,
+            "carbohydrates": 0.1
+        },
+        "ingredients": [
+            "Milk Fat",
+            "Salt"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRbihovlbQM4WflXRg2Ii4JTg3xHnyytdBwH-OJeWpSZYBsrVkvhIOwocPMA9fHQbsD7BJoxqGLWvW2kwpyM3wl9yj8zOCbm1yqAWaOxqM6e4eJmZUGuV5h&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Britannia Cheese Slices",
+        "category": "Dairy",
+        "macros": {
+            "calories": 320,
+            "protein": 20,
+            "fat": 25,
+            "carbohydrates": 2
+        },
+        "ingredients": [
+            "Milk Solids",
+            "Salt",
+            "Emulsifiers"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcToCIcVwGYIjr-XoCaSyCsCpcKilk1d1kHn2lJLg8hwynhC5TmPYd1ZaLUTeLGmKSbR2_0mNaUrfmJyMXaLsDjfgeJ37rtOLYfQ_rm0PLj3-Sebzpt_cWaj&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Nestl\u00e9 a+ Grekyo Greek Yogurt",
+        "category": "Dairy",
+        "macros": {
+            "calories": 100,
+            "protein": 8,
+            "fat": 3,
+            "carbohydrates": 10
+        },
+        "ingredients": [
+            "Milk",
+            "Active Live Cultures",
+            "Sugar"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQLkyUOHywb5PncDGPkO0JjqAy3969eXTEygGVIGEKusq1BV5NA4Klfq6OIyPpgN9o4FFIu7nRKYRJyhSxXQA4DSFasuKFw5NTUr2-t9aXIZracxqlw8Xmk009q&usqp=CAE",
+        "diet_category": "Vegetarian"
+    },
+    {
+        "name": "Gowardhan Paneer",
+        "category": "Dairy",
+        "macros": {
+            "calories": 265,
+            "protein": 18,
+            "fat": 20,
+            "carbohydrates": 1.2
+        },
+        "ingredients": [
+            "Milk",
+            "Citric Acid"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQCuqXBjjiLXfhCQqCOy2uGB3T4lsEMRqBJu_bu5PYVEBrwtYOeyiVqEgb2mVRVfO9MCxKYyvzM8Q17HotkoR4zaKLt2zVtc3erT5EFbSWx1MyALThGzEaT&usqp=CAE",
+        "diet_category": "Vegetarian"
+    },
+    {
+        "name": "Nestl\u00e9 Everyday Dairy Whitener",
+        "category": "Dairy",
+        "macros": {
+            "calories": 510,
+            "protein": 22,
+            "fat": 26,
+            "carbohydrates": 48
+        },
+        "ingredients": [
+            "Milk Solids",
+            "Sugar",
+            "Emulsifiers"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcS4bbzK3N9LiGEjJ3b53QrV4MwpGaP5F2v0nW89Iru0h4arDnuDZPQi1ABrc2LKJSBE80Hv6qC5imaV6rGjitwc-CfCixaqNTzoocSkYcBbZSyFaHTzXIAQVw&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Epigamia Greek Yogurt",
+        "category": "Dairy",
+        "macros": {
+            "calories": 90,
+            "protein": 9,
+            "fat": 3,
+            "carbohydrates": 8
+        },
+        "ingredients": [
+            "Milk",
+            "Live Cultures",
+            "Fruit Puree"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQNv3u7w9cX9JXQ0B--GH4uOQj7O0scnypaQ_8TLcLvDIILgfHsxytE98ZlcT84iJzDlm2uOluvhhPfh9BeyhEF-GM3D1enUVWjF-joCbbotM4-064SqOob6jg8&usqp=CAE",
+        "diet_category": "Vegetarian"
+    },
+    {
+        "name": "Amul Masti Buttermilk",
+        "category": "Dairy",
+        "macros": {
+            "calories": 40,
+            "protein": 2.5,
+            "fat": 1.5,
+            "carbohydrates": 4.8
+        },
+        "ingredients": [
+            "Water",
+            "Curd",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRdQfQPc4wUkgnKRd9fIO7Sn5xgZ8EaPXUUaFbjEeUQPffbS5HYDy1N2maBwSK6Va-xTMjhYutqpyZymYiHMpGLfI84oeopN6m9wpwfJdPX6h0N6Eoqk4kj&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Nandini Ghee",
+        "category": "Dairy",
+        "macros": {
+            "calories": 899,
+            "protein": 0,
+            "fat": 99.8,
+            "carbohydrates": 0
+        },
+        "ingredients": [
+            "Milk Fat"
+        ],
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRspHBxJiR-o5YPLXXLAWwoYm-2StSUnHnQtMH5K93sKcPSOSlKvpBnYdGp82dhBXwQxvTN6psswg4jjB73pOHpcOTu0pwUwKON8DZFbtnDHies0F95juzw&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Parle-G",
+        "category": "Biscuits & Cookies",
+        "macros": {
+            "calories": 450,
+            "protein": 7,
+            "fat": 12,
+            "carbohydrates": 75
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Sugar",
+            "Edible Oil",
+            "Milk Solids"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSazf0mPf0_FTj1h1BjgTIGxpmgLj1x19k_bm-Ruc_AZswi5uC9a5SR_M9EYKctGCKmKk149Vn7iqdaq0W4D58iS7krukDs4WoIsmTZHfa9ODmp82bjXOEC_Q&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Britannia Good Day Cashew",
+        "category": "Biscuits & Cookies",
+        "macros": {
+            "calories": 500,
+            "protein": 6,
+            "fat": 25,
+            "carbohydrates": 65
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Cashew",
+            "Butter",
+            "Sugar"
+        ],
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcS7kwQlKvjB-qdKjs1VI6vomI7_rlguOBxsQGAd6tGVLbIdJFvCH8O_aEb-52S5YqWEXFb9DG9kFtb6mtVni6DrePmpHk5UzJ2j6i7Gtk3-1Im7ptFusSY&usqp=CAE",
+        "diet_category": "Vegetarian"
+    },
+    {
+        "name": "Hide & Seek Fab",
+        "category": "Biscuits & Cookies",
+        "macros": {
+            "calories": 480,
+            "protein": 5,
+            "fat": 20,
+            "carbohydrates": 70
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Sugar",
+            "Chocolate",
+            "Edible Oil"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcR-jHAEyf19ts58we2ejwzoyPTbi0y5j0HrUEUNaarvAErS5dUbyllakQB7WdDKndcsYRf9vpEpgqnrBS7bhnAFflmDG4FGaYyUk-100NFcCNOwtlB-FZrg&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Oreo Chocolate Creme",
+        "category": "Biscuits & Cookies",
+        "macros": {
+            "calories": 530,
+            "protein": 4,
+            "fat": 24,
+            "carbohydrates": 68
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Cocoa",
+            "Sugar",
+            "Edible Oil"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRnbNolPap5KmIuURogbhHBksZV96SVlT8e2VP2I4XhCmxseqyYPeQijEllpqEcAVUNanaojyUkw5mLth7WAFMGbPq2vM8q&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Bourbon Chocolate Cream",
+        "category": "Biscuits & Cookies",
+        "macros": {
+            "calories": 500,
+            "protein": 5,
+            "fat": 22,
+            "carbohydrates": 70
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Cocoa",
+            "Sugar",
+            "Vegetable Oil"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQATpGl7I2gRflywVkbOIcZmPJH4v1MF0n9a17yllhWxyT43XTe9bQi3ikHRx3IhG9Rxzx_yT-bcxc_rXP1Y2C8j-sNDpHTVOVaVrvaQMPwsbSShKdTK5NZ&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Jim Jam Vanilla",
+        "category": "Biscuits & Cookies",
+        "macros": {
+            "calories": 520,
+            "protein": 5,
+            "fat": 25,
+            "carbohydrates": 68
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Sugar",
+            "Edible Oil",
+            "Vanilla"
+        ],
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRlX8MQyqBQpzwNKrvlhofKssrK1vv21rqyJRTvJtyY3hNFsJ_5dxU7JWJ9kg0dxh4QLW6qjUPCrcgVvPMFsqMfNG3bmV6f4sk1juntAmpQSQC0sE-Jh8eGQQ&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Marie Gold",
+        "category": "Biscuits & Cookies",
+        "macros": {
+            "calories": 430,
+            "protein": 8,
+            "fat": 10,
+            "carbohydrates": 78
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Sugar",
+            "Edible Oil",
+            "Salt"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQS3O8bfADM_CnWwB2FV0MJiLUqZ-tz4c4wjCgIWZwG5G20h3jnAljv15zoFEjidf5FzcPASLAuy_ak3h8QnX2I_CQLYJqTC130l3C51xU4Og4WmpKhIaZcJw&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Unibic Choco Chip Cookies",
+        "category": "Biscuits & Cookies",
+        "macros": {
+            "calories": 550,
+            "protein": 6,
+            "fat": 28,
+            "carbohydrates": 60
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Chocolate Chips",
+            "Butter",
+            "Sugar"
+        ],
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSpkJXls8dQ84c1iGExM18ZI1RRRecdKtit1BrgZn8GuP0SH2WZkuMwwcNm79FjaS22YNQHUp23XkfwOi_rNe9R2g00MUfN6cjF9Sq04xSWfeTZa-TxZ6TRww&usqp=CAE",
+        "diet_category": "Vegetarian"
+    },
+    {
+        "name": "Little Debbie Oatmeal Cream Pies",
+        "category": "Biscuits & Cookies",
+        "macros": {
+            "calories": 480,
+            "protein": 5,
+            "fat": 22,
+            "carbohydrates": 70
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Oatmeal",
+            "Butter",
+            "Sugar"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQpuwV7OWAsqNOvY5cZw3IqKRMO2U9aIAoZ4lYBibqUzvRMPOk5HuP_2W6rfh-3jxQy7cdNGyHo7t_nenUDFpewgb7loaBVO-SAJRmUro90fbhj1kGe1q69jg&usqp=CAE",
+        "diet_category": "Vegetarian"
+    },
+    {
+        "name": "Lotus Biscoff",
+        "category": "Biscuits & Cookies",
+        "macros": {
+            "calories": 480,
+            "protein": 5,
+            "fat": 20,
+            "carbohydrates": 70
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Sugar",
+            "Cinnamon",
+            "Edible Oil"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRGdhS5xOeuY-g40qOnOE4xLt7PiFzwFOuaMpA6WTij-WH3ORlizfGen7aqFFczyNZ_-LN-X6W9SwgP2ZCnhzcIWMQJk9ROiOPKQVPIUJ5MS65jTu0Yfo2FRA&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Haldiram\u2019s Aloo Bhujia",
+        "category": "Snacks",
+        "macros": {
+            "calories": 550,
+            "protein": 7,
+            "fat": 35,
+            "carbohydrates": 50
+        },
+        "ingredients": [
+            "Potatoes",
+            "Besan",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS0eBvoYLjGktKW1f8Jj5YddQW7ZsU_XQeAuqGFwE2aHx4AKeJD3b1MakzvNDq5desiNwtgUIFacMnF3NMk5EPlCji_TD8It2XA9sX8XYB7&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Bikaji Bhujia Sev",
+        "category": "Snacks",
+        "macros": {
+            "calories": 540,
+            "protein": 6,
+            "fat": 34,
+            "carbohydrates": 52
+        },
+        "ingredients": [
+            "Besan",
+            "Edible Oil",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcR5-rw4IgQ-UQMxC46wRmvbm0HIGF84OqnV7SzU5AMfP8LE5gAWQC7yOnGqF-CxQgaTzRtGInBeX2GkS7Ov8LRQVR4j9IjoyJnfjBVgvmRqjOYQ9mrvEzFI&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Lay\u2019s Classic Salted Chips",
+        "category": "Snacks",
+        "macros": {
+            "calories": 536,
+            "protein": 6,
+            "fat": 34,
+            "carbohydrates": 52
+        },
+        "ingredients": [
+            "Potatoes",
+            "Edible Oil",
+            "Salt"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRUwinHfoaFo5GKR8Akc-jVG-PGEeWEEtxayVN9TwcX2bgzshJ6nOfBsqrBb1xTr7Dde_mO5v0rrXV3U05zplyOE8F5MZYPvfKNKuwgkb_AAmY_IlYPOCppWlg&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Kurkure Masala Munch",
+        "category": "Snacks",
+        "macros": {
+            "calories": 480,
+            "protein": 5,
+            "fat": 30,
+            "carbohydrates": 55
+        },
+        "ingredients": [
+            "Cornmeal",
+            "Rice Meal",
+            "Spices",
+            "Salt"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQPYcknFObBx4D2J1xQXsUTsQ69nJdS9YhTnVPeCGHsvw-HXV5DAZkOm6nvHWZ8qsWC_S9volVie7Vvk-4VqbVumGArE60jWq3UfgAi5Q29ecznr2KPRcSkOg&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Haldiram\u2019s Moong Dal",
+        "category": "Snacks",
+        "macros": {
+            "calories": 450,
+            "protein": 12,
+            "fat": 25,
+            "carbohydrates": 45
+        },
+        "ingredients": [
+            "Moong Dal",
+            "Edible Oil",
+            "Salt"
+        ],
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcThUFhvv0J3nW4pbY57XRZxN1zWKfxFLls3Aksm2umkdjiYKasgCou0c7rexaZy2HzranV_2F894LFq2fXoOsp48hQcs7bd64P2W-UEJKfJ1dyoXkICz_-lKw&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Bingo Mad Angles",
+        "category": "Snacks",
+        "macros": {
+            "calories": 520,
+            "protein": 6,
+            "fat": 32,
+            "carbohydrates": 55
+        },
+        "ingredients": [
+            "Corn Meal",
+            "Edible Oil",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR1jBR0FhjVukz_Od0DaOYRKa1A5ZzlWXP11utMp8zZcQmDcUufiGc14CjSZSfK8yAn8_U5NMV7-IlAtliT-5ezt3cZBP3bYuhHYwG6gMWyl4oXsSp4fDHB&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Pringles Sour Cream & Onion",
+        "category": "Snacks",
+        "macros": {
+            "calories": 540,
+            "protein": 7,
+            "fat": 30,
+            "carbohydrates": 57
+        },
+        "ingredients": [
+            "Potatoes",
+            "Vegetable Oil",
+            "Salt",
+            "Onion Powder"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTCWqF4mku7VA9M7VzIg3nRSvEMr38_aFJZSl5uQthJ1c4_8dHgvp6EUQdIxhqB9tv0eeXi9Lb2KdB_G5SnXjmdzKSCRiHVSHnurVYqC7hajDgCL-eXJYGVGw&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Haldiram\u2019s Punjabi Tadka",
+        "category": "Snacks",
+        "macros": {
+            "calories": 530,
+            "protein": 8,
+            "fat": 33,
+            "carbohydrates": 55
+        },
+        "ingredients": [
+            "Potatoes",
+            "Besan",
+            "Spices",
+            "Salt"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR--KC6nJGgTCsOEQW9gZgpy5JAZ-G5WPORbAb0rRrLSXGMw_TLmI9HYHopvhTmFse3EFecF46Fyejguv7I41zEsVZ-33vo-E4q-i_cqSfhMDODhNRuSbW8&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Too Yumm Multigrain Chips",
+        "category": "Snacks",
+        "macros": {
+            "calories": 460,
+            "protein": 10,
+            "fat": 20,
+            "carbohydrates": 60
+        },
+        "ingredients": [
+            "Multigrain Flour",
+            "Edible Oil",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRP6qdK4HWh77LDIQ0sAFroQEM3xqVsKc1Tyb35pgwbtZZoO35vIyYPca8LzgeJbivMYay65WzA66AIwbaNzc_y_5W-rPHMX_ORV950SbxbyVCM6n4T7qBN&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Cornitos Nacho Crisps",
+        "category": "Snacks",
+        "macros": {
+            "calories": 510,
+            "protein": 7,
+            "fat": 28,
+            "carbohydrates": 55
+        },
+        "ingredients": [
+            "Corn Meal",
+            "Salt",
+            "Edible Oil",
+            "Spices"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT1WQWoFbgzi4r24tDZtN5YNu18EabP3Jfc-zchzNEz1x44O4LcvGNaDiKCtE-rz1DdnSenFdF2MAVujC4k13j6O_-1u88Di067-E8mfa8p-Mzxs9Gs1kbf&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Maggi Masala Noodles",
+        "category": "Instant Noodles ",
+        "macros": {
+            "calories": 435,
+            "protein": 9,
+            "fat": 18,
+            "carbohydrates": 60
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Palm Oil",
+            "Spices",
+            "Salt"
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/71T0QfFl+3L.jpg",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Sunfeast Yippee Magic Masala",
+        "category": "Instant Noodles ",
+        "macros": {
+            "calories": 450,
+            "protein": 8,
+            "fat": 20,
+            "carbohydrates": 55
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Vegetable Oil",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://www.bigbasket.com/media/uploads/p/l/287005_16-sunfeast-yippee-magic-masala-noodles.jpg",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Ching\u2019s Schezwan Noodles",
+        "category": "Instant Noodles ",
+        "macros": {
+            "calories": 460,
+            "protein": 7,
+            "fat": 21,
+            "carbohydrates": 55
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Edible Vegetable Oil",
+            "Schezwan Spice Mix"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcT7navAmqP_sY8auSvzZlvdESvDpKgaNcg4z1ip9Ysi4OFnEf0Qe_LISTZ4mBOhqYN8pJfs9xjhAmpqhZC6h4g9tmDtGDGgse7XPutUi1dtck2_wbQfC0zr&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Knorr Soupy Noodles",
+        "category": "Instant Noodles ",
+        "macros": {
+            "calories": 420,
+            "protein": 8,
+            "fat": 15,
+            "carbohydrates": 58
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Vegetable Oil",
+            "Salt",
+            "Dehydrated Vegetables"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRUeXj0qumSOPBfvfTptfuZVQORV6j8OjGxuvDtP60AzpzklpnvMO4epB7mkMaGycnF82LOGPDlbgM-ygQiuFocRn2ozmgTsPQTdjHEBPiYwFyYS4ZqOcAVcg&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Top Ramen Curry Noodles",
+        "category": "Instant Noodles ",
+        "macros": {
+            "calories": 440,
+            "protein": 9,
+            "fat": 19,
+            "carbohydrates": 56
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Vegetable Oil",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQZRnZf2bYNsuchz-Nt0vtPoA5QxUKtFu8Lze_lUwxK27EyZl9NFIfEg6zZWb_IPkVCcyOkYI8wxGrr9Gh8mLjLRd58Lsia_U_kGLGOud5yJSWWWtE-nFrW&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Sunfeast Yippee Classic Masala",
+        "category": "Instant Noodles ",
+        "macros": {
+            "calories": 430,
+            "protein": 9,
+            "fat": 17,
+            "carbohydrates": 58
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Edible Vegetable Oil",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcSp1LXgzqr358H0pw8PbeIUZbzzhc7MPzeEAelBpatWOF2Vf-lan2lRhXYnQa6aDJcdsyZKSQasF3Hp8uQN5qcWpMo_wocZt42IZrmPjTTSxsJJLddmKgEG&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Maggi Atta Noodles",
+        "category": "Instant Noodles ",
+        "macros": {
+            "calories": 420,
+            "protein": 10,
+            "fat": 16,
+            "carbohydrates": 55
+        },
+        "ingredients": [
+            "Whole Wheat Flour",
+            "Edible Vegetable Oil",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSkwvM0MSDhCqi3LKYpXj200bn_T7cOCMZDtRR4_tDKt5vw65hltTkAhk55pS4yuTT1svjMAFcF3Zubu2ML7XfJ_f6Iq7GCBHYjcBcZTrzd6tnRj-flrpNZ&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Weikfield Penne Pasta",
+        "category": "Instant Noodles ",
+        "macros": {
+            "calories": 350,
+            "protein": 12,
+            "fat": 2,
+            "carbohydrates": 70
+        },
+        "ingredients": [
+            "Durum Wheat Semolina"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcROXpy88LASY25H1MWHK0Id1GIsY6dl1VYecGZH6wS-Xfcz7eoleIPYTySRKsOQ8s7QucCrf-ZpUxo_eo0wlR3I_N9WXeKU6QgB8VsEluw&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Barilla Spaghetti Pasta",
+        "category": "Instant Noodles ",
+        "macros": {
+            "calories": 360,
+            "protein": 14,
+            "fat": 1,
+            "carbohydrates": 72
+        },
+        "ingredients": [
+            "Durum Wheat"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcT5g27BvScgQM4Nzoph9fL0uyVcxH_MwdEWxGq7FrEaXHXSpWz5nRvISH9l-9HyTketrKVlt1AfLxPvvUca7dEuhdyDxcvPlhnE89iowRD5AtP6xL-DAjYWMw&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Ching\u2019s Veg Hakka Noodles",
+        "category": "Instant Noodles ",
+        "macros": {
+            "calories": 440,
+            "protein": 9,
+            "fat": 16,
+            "carbohydrates": 62
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Salt",
+            "Edible Oil"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSk258kFsCTSx2k-099UdEwYhNgzODV7Q1ga8Nfr5CpNUcALltDFk5BIltHWmBv4nt0w1Q1f_RHOssdPx_iFVwcfosEX5gar-cvk3KLViVZZ2VdLzYutvnq&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Kellogg\u2019s Corn Flakes",
+        "category": "Cereals",
+        "macros": {
+            "calories": 380,
+            "protein": 8,
+            "fat": 1,
+            "carbohydrates": 84
+        },
+        "ingredients": [
+            "Corn",
+            "Sugar",
+            "Salt",
+            "Vitamins"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcS3KDmZKDp_7WXM8RAcSRtNHcXtSAckpKA7tB5a2apWz3fgZpoiBi9WhctI98sbCFz1C1KazRZ5tzCay_LD4-ctndsySf3VW3VmoOO_T7A9QvfrM9elNhoc",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Kellogg\u2019s Chocos",
+        "category": "Cereals",
+        "macros": {
+            "calories": 393,
+            "protein": 7,
+            "fat": 4,
+            "carbohydrates": 83
+        },
+        "ingredients": [
+            "Whole Wheat",
+            "Cocoa Solids",
+            "Sugar",
+            "Salt"
+        ],
+        "image_url": "https://img.thecdn.in/271829/SKU-2343_0-1721915634127.jpg?width=600&format=webp",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Bagrry\u2019s Oats",
+        "category": "Cereals",
+        "macros": {
+            "calories": 370,
+            "protein": 13,
+            "fat": 7,
+            "carbohydrates": 67
+        },
+        "ingredients": [
+            "Whole Grain Oats"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTgwqHR1GDfVtucmhcf2-47jhdQKebqjIi5FdWLEI36XfzE3f65bXITMJbm6zoOs0XFWAU1xtiyGku4L6R80vk0vdJbblyblTbv9rPWJYzubiK8Z0PtnLaAskEvRyapjb7oJL3yu-g&usqp=CAc",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Quaker Oats",
+        "category": "Cereals",
+        "macros": {
+            "calories": 380,
+            "protein": 13,
+            "fat": 6,
+            "carbohydrates": 69
+        },
+        "ingredients": [
+            "100% Wholegrain Oats"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTRoq68joROlRCLh6V4AFkyiLzSu5RdPjLVbU2QdJkjG3Np0CyQ9A8QMPqB6UyleL8JfrnTA_4Ww-7TDTOREsiha5AjVDaimRl_2kZX-ZqD_yuIJailP6CX&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "MTR Rava Idli Mix",
+        "category": "Cereals",
+        "macros": {
+            "calories": 360,
+            "protein": 8,
+            "fat": 2,
+            "carbohydrates": 78
+        },
+        "ingredients": [
+            "Semolina",
+            "Salt",
+            "Raising Agents"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcR_BNJQvv9aTtY39olzeVwp3ChZiEYDEKVZJMhhGl9vd_6NmmNBU3EiNxt8zU3EJc3kdOyLLB4FvnFGyWBbjp4dTOnga04AhgLWR6AOTRVOwpOCX6e6kZZU&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Nestl\u00e9 NesPlus Multigrain",
+        "category": "Cereals",
+        "macros": {
+            "calories": 370,
+            "protein": 7,
+            "fat": 3,
+            "carbohydrates": 75
+        },
+        "ingredients": [
+            "Whole Wheat",
+            "Oats",
+            "Rice",
+            "Corn"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRe8sWr-ZHnjOcbsuXKnPC_Cmm5nQNeow8zYi45IK7vd4qQOexkhMbbmrOHWzLlaysAyp2ejgLOtQJM9PU6aCIwljPAfi3dHBJUwOLDE5Bo_bTGJP4mSwsF&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Soulfull Ragi Bites",
+        "category": "Cereals",
+        "macros": {
+            "calories": 380,
+            "protein": 6,
+            "fat": 4,
+            "carbohydrates": 80
+        },
+        "ingredients": [
+            "Ragi",
+            "Sugar",
+            "Cocoa",
+            "Salt"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcRQ8jDXKsr7qL5TvfRqbexTMCpnMZizIFlvBmY-UoiAuPlxuuBdfMLl4-foMCpWpcNKsMweq_IWZgEtxppDYmEKigetLrAW4LD7Q7PmVmY0&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Patanjali Dalia",
+        "category": "Cereals",
+        "macros": {
+            "calories": 360,
+            "protein": 11,
+            "fat": 1,
+            "carbohydrates": 75
+        },
+        "ingredients": [
+            "Broken Wheat"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR1bvlO5h9C0OcaWq9RqRQ8MZtMAd-PMpKo4xGBKNpzI20yYiUjLF_NgL3V4pRzvMtFkmSi7KE8guBjebb-J144BPqS4ObYs2hILaKl5fajmOrrtCGVjIypVw&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Kellogg\u2019s Muesli Fruit & Nut",
+        "category": "Cereals",
+        "macros": {
+            "calories": 400,
+            "protein": 10,
+            "fat": 5,
+            "carbohydrates": 80
+        },
+        "ingredients": [
+            "Oats",
+            "Wheat Flakes",
+            "Dry Fruits",
+            "Sugar"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTTg_qEL39AZ1zn7CFeqc7B0ySl1jM3O8U-eo2e-okN0zVYmUjaaHp97835iVQTC0isaGWqoJDXtUYR8vFVZbo4ye8ngmHsdFYXZmojVAihYSKM4rkDoX2m5w&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "True Elements Multigrain Muesli",
+        "category": "Cereals",
+        "macros": {
+            "calories": 380,
+            "protein": 12,
+            "fat": 6,
+            "carbohydrates": 68
+        },
+        "ingredients": [
+            "Rolled Oats",
+            "Almonds",
+            "Raisins",
+            "Wheat Flakes"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTk3U3F1QEOVK5Zqw3NS0OHn8DSDm4V9bktg36BKczk6iCjEqhT7zj59JaeASlcm4V6etxVyekZsjuUs12KyEEnDAic6nlpHp_eQ4uAJ7Cu-fd3qQ9lqu1WDA&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Britannia Good Day Butter Cookies",
+        "category": "Bakery",
+        "macros": {
+            "calories": 480,
+            "protein": 6,
+            "fat": 22,
+            "carbohydrates": 68
+        },
+        "ingredients": [
+            "Refined Wheat Flour",
+            "Sugar",
+            "Butter",
+            "Edible Vegetable Oil"
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/61FsBt3SB4L.jpg",
+        "diet_category": "Vegetarian"
+    },
+    {
+        "name": "Parle Monaco Biscuits",
+        "category": "Bakery",
+        "macros": {
+            "calories": 500,
+            "protein": 7,
+            "fat": 24,
+            "carbohydrates": 65
+        },
+        "ingredients": [
+            "Refined Wheat Flour",
+            "Sugar",
+            "Salt",
+            "Raising Agents"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSejqHExRk5bvWhd-45BC7dDwyxgOzGH1II6bwUTrLINkcDot6qudjtFWswJVgTAXeENU8Eh7RF0t_f0MtZ3ODpib_b8qtao7Z1pEi6Zom6D-GDo6-KA_xAcYM",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Britannia NutriChoice Digestive Biscuits",
+        "category": "Bakery",
+        "macros": {
+            "calories": 450,
+            "protein": 8,
+            "fat": 14,
+            "carbohydrates": 72
+        },
+        "ingredients": [
+            "Whole Wheat Flour",
+            "Sugar",
+            "Edible Vegetable Oil",
+            "Oats"
+        ],
+        "image_url": "https://www.bigbasket.com/media/uploads/p/xxl/40197803_10-britannia-nutrichoice-digestive-high-fibre-biscuits-super-saver-family-pack.jpg",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Sunfeast Marie Light",
+        "category": "Bakery",
+        "macros": {
+            "calories": 430,
+            "protein": 8,
+            "fat": 12,
+            "carbohydrates": 75
+        },
+        "ingredients": [
+            "Refined Wheat Flour",
+            "Sugar",
+            "Milk Solids",
+            "Salt"
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/81W+pBrbwXL.jpg",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Britannia Milk Rusk",
+        "category": "Bakery",
+        "macros": {
+            "calories": 460,
+            "protein": 9,
+            "fat": 6,
+            "carbohydrates": 78
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Sugar",
+            "Milk Solids",
+            "Butter"
+        ],
+        "image_url": "https://www.bigbasket.com/media/uploads/p/xxl/407839_9-britannia-toastea-milk-rusk-with-goodness-of-milk-wheat.jpg",
+        "diet_category": "Vegetarian"
+    },
+    {
+        "name": "Patanjali Atta Biscuit",
+        "category": "Bakery",
+        "macros": {
+            "calories": 400,
+            "protein": 10,
+            "fat": 10,
+            "carbohydrates": 70
+        },
+        "ingredients": [
+            "Whole Wheat Flour",
+            "Jaggery",
+            "Butter",
+            "Cardamom"
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/51tisc5sj-L.jpg",
+        "diet_category": "Vegetarian"
+    },
+    {
+        "name": "Little Debbie Swiss Roll",
+        "category": "Bakery",
+        "macros": {
+            "calories": 480,
+            "protein": 5,
+            "fat": 22,
+            "carbohydrates": 67
+        },
+        "ingredients": [
+            "Flour",
+            "Sugar",
+            "Cocoa",
+            "Vegetable Oil"
+        ],
+        "image_url": "https://i5.walmartimages.com/seo/Little-Debbie-Swiss-Cake-Rolls-America-39-s-Original-12-Ct-Snacks-13-Oz_4fb42b83-404c-4552-88f8-46727e0712aa_2.753382beb0f151498e6500b704f74665.jpeg",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Britannia Fruit Cake",
+        "category": "Bakery",
+        "macros": {
+            "calories": 450,
+            "protein": 6,
+            "fat": 15,
+            "carbohydrates": 70
+        },
+        "ingredients": [
+            "Flour",
+            "Sugar",
+            "Eggs",
+            "Fruit Bits"
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/61jgaxBM6CL.jpg",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Harvest Gold Brown Bread",
+        "category": "Bakery",
+        "macros": {
+            "calories": 270,
+            "protein": 9,
+            "fat": 2,
+            "carbohydrates": 55
+        },
+        "ingredients": [
+            "Whole Wheat Flour",
+            "Yeast",
+            "Salt",
+            "Sugar"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRAaHjURB-wpMumwQncXLEQBJPh99m-IAnfFmD0op6QhT8VLPZDL6GFOzWgAFd-Cq9nNpt4CgJI69XQ9HTa58cdF0E7he8cgB0oFntrRM0oglq6KUxsKEpF&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Modern Milk Bread",
+        "category": "Bakery",
+        "macros": {
+            "calories": 280,
+            "protein": 8,
+            "fat": 3,
+            "carbohydrates": 55
+        },
+        "ingredients": [
+            "Refined Wheat Flour",
+            "Milk Solids",
+            "Salt",
+            "Sugar"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcQjEPwI5yUx6lCz967EHopJCuT2b2G313cdcvLU1ZEe8pQjRmtt5QzgO2n9j246haxBJwIe9dQjVaB2tOcXHifT3zZ6bb3fnl2EzWyUJO_5m-_oFUOJh1x-SA",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "McCain French Fries",
+        "category": "Frozen Foods",
+        "macros": {
+            "calories": 312,
+            "protein": 3,
+            "fat": 14,
+            "carbohydrates": 41
+        },
+        "ingredients": [
+            "Potatoes",
+            "Edible Vegetable Oil",
+            "Salt"
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/81MJn9UQMfL.jpg",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "McCain Smiles",
+        "category": "Frozen Foods",
+        "macros": {
+            "calories": 320,
+            "protein": 3,
+            "fat": 15,
+            "carbohydrates": 40
+        },
+        "ingredients": [
+            "Potatoes",
+            "Salt",
+            "Edible Vegetable Oil"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcSKAW7ElpMfEXaPNDt1ajIUcRQNm8-yNkSaDpOYPADzosdKdPw0eO_JEhIYbv_Xu7a_S6wzeepgAyj8_x-WST3U2fg798qQjoTkAGR9CtFAJSbBlBpDDVtz_g",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "ITC Master Chef Chicken Nuggets",
+        "category": "Frozen Foods",
+        "macros": {
+            "calories": 280,
+            "protein": 14,
+            "fat": 18,
+            "carbohydrates": 15
+        },
+        "ingredients": [
+            "Chicken",
+            "Breadcrumbs",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQXJiKqxPVVwItVAgmOFjyUbrbfBsHMa_ncpeKDbPCLdhT-p54BH70FmZzB_X4XnTkcKBL6X5eaRGGBDSj8SL6_2Cp2x6KTXjRJ-XhE0_Ayq07WS1VpY1WPBQ&usqp=CAE",
+        "diet_category": "Non-Vegetarian"
+    },
+    {
+        "name": "Sumeru Chicken Seekh Kabab",
+        "category": "Frozen Foods",
+        "macros": {
+            "calories": 270,
+            "protein": 16,
+            "fat": 17,
+            "carbohydrates": 10
+        },
+        "ingredients": [
+            "Chicken",
+            "Spices",
+            "Salt",
+            "Ginger Garlic Paste"
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/71+f7EpRdwL.jpg",
+        "diet_category": "Non-Vegetarian"
+    },
+    {
+        "name": "Keventer Veg Spring Roll",
+        "category": "Frozen Foods",
+        "macros": {
+            "calories": 300,
+            "protein": 5,
+            "fat": 10,
+            "carbohydrates": 45
+        },
+        "ingredients": [
+            "Cabbage",
+            "Carrots",
+            "Flour",
+            "Salt",
+            "Soy Sauce"
+        ],
+        "image_url": "https://instamart-media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,h_600/aggsc0qnrt2bmbjpecpq",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Meatzza Chicken Sausages",
+        "category": "Frozen Foods",
+        "macros": {
+            "calories": 260,
+            "protein": 13,
+            "fat": 20,
+            "carbohydrates": 5
+        },
+        "ingredients": [
+            "Chicken",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://www.bigbasket.com/media/uploads/p/l/40055083_5-meatzza-chicken-sausage.jpg",
+        "diet_category": "Non-Vegetarian"
+    },
+    {
+        "name": "ITC Veg Patty",
+        "category": "Frozen Foods",
+        "macros": {
+            "calories": 280,
+            "protein": 7,
+            "fat": 15,
+            "carbohydrates": 35
+        },
+        "ingredients": [
+            "Potatoes",
+            "Carrots",
+            "Peas",
+            "Bread Crumbs"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr2O5AeGlvPqkKPkFzFWda_KcwDoof6jwO1Q&s",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "McCain Cheese Shots",
+        "category": "Frozen Foods",
+        "macros": {
+            "calories": 350,
+            "protein": 6,
+            "fat": 22,
+            "carbohydrates": 40
+        },
+        "ingredients": [
+            "Cheese",
+            "Breadcrumbs",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://www.mccainindia.com/wp-content/uploads/2024/01/Potato-Cheese-Shotz-400-g-FRONT.png",
+        "diet_category": "Vegetarian"
+    },
+    {
+        "name": "Kohinoor Frozen Paratha",
+        "category": "Frozen Foods",
+        "macros": {
+            "calories": 280,
+            "protein": 6,
+            "fat": 14,
+            "carbohydrates": 35
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Oil",
+            "Salt"
+        ],
+        "image_url": "https://www.kohinoorfoods.in/assets/img/gobhi_paratha.jpg",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Godrej Yummiez Chicken Popcorn",
+        "category": "Frozen Foods",
+        "macros": {
+            "calories": 290,
+            "protein": 12,
+            "fat": 16,
+            "carbohydrates": 25
+        },
+        "ingredients": [
+            "Chicken",
+            "Breadcrumbs",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/61p3fjlJl0L.jpg",
+        "diet_category": "Non-Vegetarian"
+    },
+    {
+        "name": "Maggi 2-Minute Noodles",
+        "category": "Instant Foods",
+        "macros": {
+            "calories": 420,
+            "protein": 9,
+            "fat": 17,
+            "carbohydrates": 56
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Palm Oil",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://rukminim2.flixcart.com/image/1200/1200/xif0q/noodle/r/a/z/-original-imagxp7ethyafr6w.jpeg",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Sunfeast Yippee Noodles",
+        "category": "Instant Foods",
+        "macros": {
+            "calories": 430,
+            "protein": 10,
+            "fat": 18,
+            "carbohydrates": 55
+        },
+        "ingredients": [
+            "Refined Wheat Flour",
+            "Edible Vegetable Oil",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTAKytMFVvUWpuGUYNvpcZn4oB7kNrSh_63CiwcZD4Akiyu-CSl75rsZsOgeXIUic1VFXrHlxxwoGX9cAdfalr8bK4CvRWZeqibT7fXw0emfnTMJBYDHHUE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Knorr Cup-a-Soup",
+        "category": "Instant Foods",
+        "macros": {
+            "calories": 90,
+            "protein": 2,
+            "fat": 1,
+            "carbohydrates": 19
+        },
+        "ingredients": [
+            "Corn Starch",
+            "Salt",
+            "Vegetables",
+            "Spices"
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/61kYAIcb8mL.jpg",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Top Ramen Instant Noodles",
+        "category": "Instant Foods",
+        "macros": {
+            "calories": 410,
+            "protein": 8,
+            "fat": 16,
+            "carbohydrates": 54
+        },
+        "ingredients": [
+            "Wheat Flour",
+            "Palm Oil",
+            "Salt",
+            "Flavour Enhancer"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcTQf7tInx3QHGi0QLZGCro3PWWjoPGCR20ISDWIyQt_FcqK-cZfqXZ4JqV6z7NXafLGXHTQ_mi1bglW9jJEnFeyy2IR8ChJFzpQwni5GkI",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Kissan Tomato Ketchup",
+        "category": "Instant Foods",
+        "macros": {
+            "calories": 100,
+            "protein": 1,
+            "fat": 0,
+            "carbohydrates": 25
+        },
+        "ingredients": [
+            "Tomato Paste",
+            "Sugar",
+            "Salt",
+            "Acidity Regulator"
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/81Gb0lYSH1L.jpg",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Amul Butter",
+        "category": "Instant Foods",
+        "macros": {
+            "calories": 717,
+            "protein": 1,
+            "fat": 81,
+            "carbohydrates": 0
+        },
+        "ingredients": [
+            "Pasteurized Butter",
+            "Salt"
+        ],
+        "image_url": "https://m.media-amazon.com/images/I/51KrxEKN58L._AC_UF894,1000_QL80_.jpg",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "MTR Upma Mix",
+        "category": "Instant Foods",
+        "macros": {
+            "calories": 380,
+            "protein": 12,
+            "fat": 4,
+            "carbohydrates": 78
+        },
+        "ingredients": [
+            "Semolina",
+            "Salt",
+            "Spices"
+        ],
+        "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcRsqtifnCSlZQRCwUh8kE4yIUUbtz7WF7OZzOokGEU3QbeotVII3LpNFuqxgbAQincsyE9Ilh6Qh7_Wkn9tWkQ_1_RpCiILDNcFdpY8r5KbDCzsiOp4w_eqeYif&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Gits Instant Gulab Jamun Mix",
+        "category": "Instant Foods",
+        "macros": {
+            "calories": 430,
+            "protein": 10,
+            "fat": 14,
+            "carbohydrates": 70
+        },
+        "ingredients": [
+            "Milk Solids",
+            "Flour",
+            "Sugar",
+            "Baking Soda"
+        ],
+        "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT61m4cDbF8QWRg97khPrAjV393Hst6agPohM94V7qRJrSSRdFbQm9GDmYYC_EwqNsXKDTBC9A2JZJduqlK0NNyHhYfHlFXVIifi-GKqj8-F2FuN2ZbzqPZkg",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "ID Fresh Malabar Paratha",
+        "category": "Instant Foods",
+        "macros": {
+            "calories": 290,
+            "protein": 6,
+            "fat": 10,
+            "carbohydrates": 44
+        },
+        "ingredients": [
+            "Refined Wheat Flour",
+            "Water",
+            "Edible Oil",
+            "Salt"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRK9LbPgOhSJ06T_WuG6VWAIKu1F3CWa2wLer5gLTv-FODQ4CEjcG0EX5gKH4ZYnyglfLa4WJm9T8evKTPu3V_0cT13WSzaOrMrz2svU40fsvZMfI-tJKxowA&usqp=CAE",
+        "diet_category": "Vegan"
+    },
+    {
+        "name": "Weikfield Pasta",
+        "category": "Instant Foods",
+        "macros": {
+            "calories": 370,
+            "protein": 11,
+            "fat": 2,
+            "carbohydrates": 75
+        },
+        "ingredients": [
+            "Durum Wheat Semolina"
+        ],
+        "image_url": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcRFGCwf42WS0dsN8ZL42dnZzIC4nihAWf2q1VFSByZ5qB3EGa6m9uZq9PkHHZpRhrBOMEtSdiJfOJimyVOVI3eV6W41IRuZkVNVMuTSz725poTE_AsXYcSu",
+        "diet_category": "Vegan"
+    }
+]
+}

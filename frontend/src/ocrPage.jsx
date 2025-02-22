@@ -141,7 +141,7 @@ const OcrPage = () => {
           <ul className="list-disc ml-6 space-y-1">
             {result.potentially_dangerous_ingredients.map((item, index) => (
               <li key={index} className="text-red-500">
-                <strong>{item.ingredient || item.name}:</strong> {item.reason || item.concerns}
+                <strong>{item.ingredient || item.name}:</strong> {item.reason || item.concerns || item.danger}
               </li>
             ))}
           </ul>

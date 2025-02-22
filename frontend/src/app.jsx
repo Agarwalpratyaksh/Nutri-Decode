@@ -8,6 +8,7 @@ import Login from './login.jsx';
 import Signup from './signup.jsx';
 import Profile from './profile.jsx';
 import Info from './info.jsx';
+import OcrPage from './ocrPage.jsx';
 
 function App() {
   return (
@@ -22,6 +23,7 @@ function App() {
         <Route path="/signup" element={<Signup />}/>
         <Route path="/profile" element={<Profile />}/>
         <Route path="/product/:name" element={<Info />}/>
+        <Route path="/ocr" element={<OcrPage />}/>
       </Routes>
     </div>
   );

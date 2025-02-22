@@ -94,6 +94,11 @@ function Navbar() {
             Contact Us
           </Link>
         </div>
+        <div>
+          <Link to="/ocr" className="focus:font-medium">
+            Scan it
+          </Link>
+        </div>
       </div>
       <div>
 

@@ -1,24 +1,6 @@
 {
     "products":[
-        {
-            "name": "Coca-Cola",
-            "category": "Beverages",
-            "macros": {
-                "calories": 42,
-                "protein": 0,
-                "fat": 0,
-                "carbohydrates": 11
-            },
-            "ingredients": [
-                "Carbonated Water",
-                "Sugar",
-                "Caffeine",
-                "Phosphoric Acid",
-                "Natural Flavors"
-            ],
-            "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT3Sm-L9BXCkkH--K9wmQHl8uIAzP41ofXdzCWTOavDwDR4WFtHgE5mMpeS2uD4F_QZ6ALiZjPecUvNEvnSj8WPPHjlRQdEAsusocSibRCNNL8WCM2-_i21AA&usqp=CAE",
-            "diet_category": "Vegan"
-        },
+        
         {
             "name": "Kissan Tomato Ketchup",
             "category": "Instant Foods",
@@ -71,6 +53,25 @@
                 "Baking Soda"
             ],
             "image_url": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcT61m4cDbF8QWRg97khPrAjV393Hst6agPohM94V7qRJrSSRdFbQm9GDmYYC_EwqNsXKDTBC9A2JZJduqlK0NNyHhYfHlFXVIifi-GKqj8-F2FuN2ZbzqPZkg",
+            "diet_category": "Vegan"
+        },
+        {
+            "name": "Coca-Cola",
+            "category": "Beverages",
+            "macros": {
+                "calories": 42,
+                "protein": 0,
+                "fat": 0,
+                "carbohydrates": 11
+            },
+            "ingredients": [
+                "Carbonated Water",
+                "Sugar",
+                "Caffeine",
+                "Phosphoric Acid",
+                "Natural Flavors"
+            ],
+            "image_url": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT3Sm-L9BXCkkH--K9wmQHl8uIAzP41ofXdzCWTOavDwDR4WFtHgE5mMpeS2uD4F_QZ6ALiZjPecUvNEvnSj8WPPHjlRQdEAsusocSibRCNNL8WCM2-_i21AA&usqp=CAE",
             "diet_category": "Vegan"
         },
         {

@@ -16,7 +16,8 @@ function App() {
       <Navbar />
       <Routes>
         <Route path="/" element={<Home />} />
-        <Route path="/contact" element={<Contact />} />
+        <Route path="/home" element={<Home />} />
+        <Route path="/contactus" element={<Contact />} />
         <Route path="/explore" element={<Explore />}/>
         <Route path="/compare" element={<Compare />}/>
         <Route path="/login" element={<Login />}/>
@@ -24,6 +25,7 @@ function App() {
         <Route path="/profile" element={<Profile />}/>
         <Route path="/product/:name" element={<Info />}/>
         <Route path="/ocr" element={<OcrPage />}/>
+        <Route path="/scanit" element={<OcrPage />}/>
       </Routes>
     </div>
   );

@@ -3,11 +3,14 @@
    
     "Dairy",
     "Snacks",
-    "Meat",
-    "Chocolates & Desserts",
     "Beverages",
-    "Munchies",
-    "Supplements"
+    
+    "Biscuits & Cookies",
+   
+    "Cereals",
+    "Bakery",
+    "Frozen Foods",
+    "Instant Foods"
     ],
     "dietaryPreferences":[
         "Vegetarian","Non-Vegetarian","Vegan"

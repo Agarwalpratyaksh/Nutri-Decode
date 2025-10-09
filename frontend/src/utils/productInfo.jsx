@@ -5,7 +5,7 @@ const apiKey = import.meta.env.VITE_GEMINI_API_KEY;
 const genAI = new GoogleGenerativeAI(apiKey);
 
 const model = genAI.getGenerativeModel({
-  model: "gemini-1.5-flash",
+  model: "gemini-2.5-flash",
   systemInstruction:
     "Provide the following details about the given food product in a clean, structured JSON format:\n\n\n\nA list of ingredients present in the product, including only the ingredient names.\n\nA health score out of 100, indicating how healthy the product is, along with a brief explanation of why it received that score.\n\nA list of harmful ingredients and their effects, highlighting those with significant negative health impacts.\n\nMacronutrient composition (e.g., carbohydrates, fats, proteins,calories) with their respective values.\n\nList of preservatives and additives present in the product.\n\nAllergen warnings (if applicable).\n\nGlycemic index (if available).\n\nA final assessment of whether the product is healthy or not, based on the ingredients and their effects.\n\nIf the food product is deemed healthy, return null in the appropriate places except healthy field and also give the proper number for the macronutrients \n\n",
 });

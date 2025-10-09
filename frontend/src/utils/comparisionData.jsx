@@ -5,7 +5,7 @@
   const genAI = new GoogleGenerativeAI(apiKey);
   
   const model = genAI.getGenerativeModel({
-    model: "gemini-2.0-flash-exp",
+    model: "gemini-flash-latest",
     systemInstruction: "give the response in json format for the comparision b/w two food products",
   });
   

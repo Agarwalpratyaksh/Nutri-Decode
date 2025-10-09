@@ -48,7 +48,7 @@ const OcrPage = () => {
     const genAI = new GoogleGenerativeAI(
       import.meta.env.VITE_GEMINI_API_NEW_KEY
     );
-    const model = genAI.getGenerativeModel({ model: "gemini-1.5-pro" });
+    const model = genAI.getGenerativeModel({ model: "gemini-2.5-pro" });
     const prompt =
       "Give the whole output in JSON format, provide the ingredients of this product from this image, and list all potentially dangerous ingredients.";
 
